@@ -34,8 +34,8 @@ semeru-unet-fusion-xai/
 ├── src/                        # Core Python modules
 │   ├── config.py               # Global configuration & experiment registry
 │   ├── data_loader.py          # Patch extraction, cloud masking, & split logic
-│   ├── losses.py               # Focal Loss (Equation 3.10)
-│   ├── models.py               # Gated U-Net architecture (Subsections 3.7.1 - 3.7.3)
+│   ├── losses.py               # Focal Loss
+│   ├── models.py               # Gated U-Net architecture
 │   ├── train.py                # Training loop and ISR class weighting
 │   ├── inference.py            # Full-AOI inference and Gaussian mosaicking
 │   ├── evaluate_all_metrics.py # Full-AOI vs Test-only evaluation
