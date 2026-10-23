@@ -19,13 +19,13 @@ The framework addresses three primary research objectives (RQs):
 ---
 
 ## Data Availability
-All raw datasets used in this study are freely available from public repositories. To replicate this study, download the raw data from the sources below and place them in a `./data/raw/` directory.
+All raw datasets used in this study are freely available from public repositories. To mimic this study, download the raw data from the sources below and place them in a `./data/raw/` directory.
 
 *   **Sentinel-1 & Sentinel-2:** [Copernicus Data Space Ecosystem (CDSE)](https://dataspace.copernicus.eu/)
 *   **Reference Labels (UNOSAT):** [UN-OCHA HDX](https://data.humdata.org/)
 *   **DEM:** [Alaska Satellite Facility (ASF)](https://search.asf.alaska.edu/)
 
-Specific dataset used in this study is available upon request.
+The specific dataset used in this study is available upon request.
 
 ##  Repository Structure
 
