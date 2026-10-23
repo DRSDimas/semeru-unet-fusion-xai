@@ -12,7 +12,7 @@ This repository contains the complete preliminary computational pipeline for map
 
 The framework addresses three primary research objectives (RQs):
 1. **Model Performance (RQ1):** Implementation of a dual-encoder Gated U-Net for adaptive SAR-Optical (Sentinel-1 & Sentinel-2) fusion.
-2. **Spatial Validation (RQ2):** Structural diagnostics to separate *spatial leakage* from *coverage problems* by comparing Random Split against Facies-Based Blocking Split.
+2. **Spatial Validation (RQ2):** Structural diagnostics to separate spatial leakage from coverage problems by comparing Random Split against Facies-Based Blocking Split.
 3. **Explainable AI (RQ3):** Feature attribution using GradientSHAP, including cross-seed and cross-facies stability testing to ensure the model learns physically meaningful features.
 
 ---
