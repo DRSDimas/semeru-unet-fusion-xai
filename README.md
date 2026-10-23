@@ -1,8 +1,8 @@
 This repository is the codebase for bachelor thesis titled: 
 # **Gated U-Net with Sentinel-1 and Sentinel-2 Fusion for Mapping Semeru 2021 and 2022 Eruption Materials: A Comparison of Random vs. Facies-Based Blocking Splits and GradientSHAP Feature Attribution**
 
-**Author:** Susilo, D. D. R. (2026)··
-**Institution:** Department of Geographic Information Science, Faculty of Geography, Universitas Gadjah Mada                                                                                    
+**Author:** Susilo, D. D. R. (2026)<br>
+**Institution:** Department of Geographic Information Science, Faculty of Geography, Universitas Gadjah Mada                                                                                
 
 ---
 
@@ -18,7 +18,7 @@ The framework addresses three primary research objectives (RQs):
 ---
 
 ## Data Availability
-All raw datasets used in this study are freely available from public repositories. To mimic this study, download the raw data from the sources below and place them in a `./data/raw/` directory.
+All raw datasets used in this study are freely available from public repositories. To replicate this study, download the raw data from the sources below and place them in a `./data/raw/` directory.
 
 *   **Sentinel-1 & Sentinel-2:** [Copernicus Data Space Ecosystem (CDSE)](https://dataspace.copernicus.eu/)
 *   **Reference Labels (UNOSAT):** [UN-OCHA HDX](https://data.humdata.org/)
