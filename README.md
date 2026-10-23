@@ -8,7 +8,7 @@ This repository is the codebase for bachelor thesis titled:
 
 ## Overview
 
-This repository contains the complete preliminary computational pipeline for mapping volcanic deposits (Pyroclastic Density Currents and Lahars) from the 2021 and 2022 Mount Semeru eruptions. 
+This repository contains the complete preliminary computational pipeline for mapping volcanic materials (Pyroclastic Density Currents and Lahars) from the 2021 and 2022 Mount Semeru eruptions. 
 
 The framework addresses three primary research objectives (RQs):
 1. **Model Performance (RQ1):** Implementation of a dual-encoder Gated U-Net for adaptive SAR-Optical (Sentinel-1 & Sentinel-2) fusion.
